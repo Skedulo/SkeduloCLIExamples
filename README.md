@@ -41,13 +41,13 @@ The following artifact types are currently available in this repository (with li
 * [Horizon Pages (horizon-page)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/horizon-page/)
 * [Horizon Templates (horizon-template)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/horizon-template/)
 * [Mobile Extensions (mobile-extension)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/mobile-extension/)
+* [Public Page (public-page)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/public-page/)
 * [Triggered Actions (triggered-action)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/triggered-action/)
 * [Web Extensions (web-extension)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/web-extension/)
 * [Webhooks (webhook)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/webhook/)
 * [User Roles (user-role)](https://docs.skedulo.com/developer-guides/cli/command-reference/artifacts/user-role/)  
 
 As more artifacts become available, examples will be added to this repository
-
 
 ## Further Reading
 
