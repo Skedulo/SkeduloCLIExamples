@@ -1,0 +1,8 @@
+{
+  "metadata": {
+    "type": "PublicPage"
+  },
+  "name": "example-compiled-page",
+  "source": "./example-compiled-page",
+  "requiresCompilation": true
+}
